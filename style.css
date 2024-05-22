@@ -28,7 +28,7 @@ h3 {
 
 main { 
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 40%;
     margin-top: 3em;
 }
 
